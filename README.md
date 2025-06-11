@@ -19,8 +19,6 @@ Bootstrap
 
 # EKRAN GÖRÜNTÜSÜ
 
-![Emaartech Building-Gif](https://github.com/user-attachments/assets/28df8514-af53-402c-ae37-106dc512e5d3)
 
 
 
-SAYGILARIMLA..
