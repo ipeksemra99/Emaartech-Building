@@ -19,7 +19,8 @@ Bootstrap
 
 # EKRAN GÖRÜNTÜSÜ
 
-![EmaartechBuilding-Gif-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/d3f059a5-4018-4b79-9a39-0b1481479e1d)
+![Emaartech Building-Gif](https://github.com/user-attachments/assets/28df8514-af53-402c-ae37-106dc512e5d3)
+
 
 
 SAYGILARIMLA..
